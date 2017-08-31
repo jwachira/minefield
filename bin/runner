@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+require "bundler/setup"
+require "./lib/minefield"
+require "./lib/cli"
+
+CLI.new.call
