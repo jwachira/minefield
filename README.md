@@ -6,12 +6,13 @@ Given a list of mines consisting of their X & Y coordinates and blast radius (ex
 
 ## Installation
 
-git clone
+```
+git clone git@github.com:jwachira/minefield.git
 
 run `bin/setup` to install dependencies
 
-Add this line to your application's Gemfile:
 
+````
 ## Running Specs
 
 ```
