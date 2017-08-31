@@ -20,10 +20,12 @@ $ bin/rspec
 
 ## Usage
 
+```
 bin/runner input.txt output.txt (If you do not provide input file; we will use the default input file)
 
+```
 
-##Sample of expected output
+## Sample of expected output
 
 ```
   Mine | Explosion Counter
